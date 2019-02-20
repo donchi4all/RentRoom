@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentRoom", "RentRoom\RentRoom.csproj", "{52B318A5-8355-4AC5-9B79-2F2A0080F8D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyClasses", "PropertyClasses\PropertyClasses.csproj", "{0BA1746D-3D72-496A-9BA4-298797B105A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B318A5-8355-4AC5-9B79-2F2A0080F8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B318A5-8355-4AC5-9B79-2F2A0080F8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B318A5-8355-4AC5-9B79-2F2A0080F8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B318A5-8355-4AC5-9B79-2F2A0080F8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA1746D-3D72-496A-9BA4-298797B105A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA1746D-3D72-496A-9BA4-298797B105A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA1746D-3D72-496A-9BA4-298797B105A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA1746D-3D72-496A-9BA4-298797B105A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECAC3A19-E04C-4C42-8C82-BC1F08B227CF}
+	EndGlobalSection
+EndGlobal
